@@ -6,6 +6,14 @@ Proje kapsamında, özellikle **Dapper ile veritabanı işlemleri**, **SQL sorgu
 
 ---
 
+## 🖼️ Uygulama Görünümü
+
+Aşağıda uygulamaya ait örnek bir ekran görüntüsü yer almaktadır:
+
+![Uygulama Görseli](gorsel1.png)
+
+---
+
 ## 🛠️ Kullanılan Teknolojiler
 
 - **C#**: Uygulamanın geliştirme dili  
